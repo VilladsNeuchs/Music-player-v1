@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aGz77T3C3bo=",
+  "dgSpecHash": "OiSBUieksno=",
   "success": true,
-  "projectFilePath": "C:\\Users\\u55894\\RiderProjects\\music player W\\music player W\\music player W.csproj",
+  "projectFilePath": "C:\\Users\\u55894\\RiderProjects\\Music-player-v1\\music player W\\music player W.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\u55894\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
     "C:\\Users\\u55894\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",

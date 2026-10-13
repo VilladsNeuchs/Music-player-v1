@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\u55894\\RiderProjects\\music player W\\music player W\\music player W.csproj": {}
+    "C:\\Users\\u55894\\RiderProjects\\Music-player-v1\\music player W\\music player W.csproj": {}
   },
   "projects": {
-    "C:\\Users\\u55894\\RiderProjects\\music player W\\music player W\\music player W.csproj": {
+    "C:\\Users\\u55894\\RiderProjects\\Music-player-v1\\music player W\\music player W.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\u55894\\RiderProjects\\music player W\\music player W\\music player W.csproj",
+        "projectUniqueName": "C:\\Users\\u55894\\RiderProjects\\Music-player-v1\\music player W\\music player W.csproj",
         "projectName": "music player W",
-        "projectPath": "C:\\Users\\u55894\\RiderProjects\\music player W\\music player W\\music player W.csproj",
+        "projectPath": "C:\\Users\\u55894\\RiderProjects\\Music-player-v1\\music player W\\music player W.csproj",
         "packagesPath": "C:\\Users\\u55894\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\u55894\\RiderProjects\\music player W\\music player W\\obj\\",
+        "outputPath": "C:\\Users\\u55894\\RiderProjects\\Music-player-v1\\music player W\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\u55894\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -23,7 +23,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0-windows7.0": {
+          "net9.0-windows": {
+            "framework": "net9.0-windows7.0",
             "targetAlias": "net9.0-windows",
             "projectReferences": {}
           }
@@ -41,7 +42,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0-windows7.0": {
+        "net9.0-windows": {
+          "framework": "net9.0-windows7.0",
           "targetAlias": "net9.0-windows",
           "dependencies": {
             "NAudio": {
@@ -68,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\u55894\\.dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\u55894\\.dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

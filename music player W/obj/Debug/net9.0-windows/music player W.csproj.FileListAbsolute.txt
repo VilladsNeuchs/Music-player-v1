@@ -23,3 +23,29 @@ C:\Users\u55894\RiderProjects\music player W\music player W\obj\Debug\net9.0-win
 C:\Users\u55894\RiderProjects\music player W\music player W\obj\Debug\net9.0-windows\ref\music player W.dll
 C:\Users\u55894\RiderProjects\music player W\music player W\obj\Debug\net9.0-windows\music_player_W.Form1.resources
 C:\Users\u55894\RiderProjects\music player W\music player W\obj\Debug\net9.0-windows\music player W.csproj.GenerateResource.cache
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.csproj.AssemblyReference.cache
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music_player_W.Form1.resources
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.csproj.GenerateResource.cache
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.AssemblyInfoInputs.cache
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.AssemblyInfo.cs
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.csproj.CoreCompileInputs.cache
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.sourcelink.json
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\refint\music player W.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.pdb
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\music player W.exe
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\music player W.deps.json
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\music player W.runtimeconfig.json
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\music player W.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\music player W.pdb
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.Asio.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.Core.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.Midi.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.Wasapi.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.WinForms.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\bin\Debug\net9.0-windows\NAudio.WinMM.dll
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music pl.B8BBDD12.Up2Date
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\music player W.genruntimeconfig.cache
+C:\Users\u55894\RiderProjects\Music-player-v1\music player W\obj\Debug\net9.0-windows\ref\music player W.dll
