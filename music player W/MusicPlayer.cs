@@ -15,15 +15,16 @@ public class MusicPlayer
 
     public void Init()
     {
-        var musicFolder = Path.Combine(
+        string musicFolder = Path.Combine(
             Environment.GetFolderPath(Environment.SpecialFolder.Desktop),
             "Music"
             );
+        Directory.CreateDirectory(musicFolder);  
         songs = Directory.GetFiles(musicFolder, "*.mp3");
         if (songs.Length == 0)
             return;
         playSong(currentSong);
-        var hello = new VolumeSlider();
+        VolumeSlider hello = new VolumeSlider();
     }
 
     private void playSong(int index)
@@ -94,7 +95,7 @@ public class MusicPlayer
         if (audioFile == null)return ;
             
         
-        var newTime = audioFile.CurrentTime + TimeSpan.FromSeconds(15);
+        TimeSpan newTime = audioFile.CurrentTime + TimeSpan.FromSeconds(15);
         if (newTime > audioFile.TotalTime)
             newTime = audioFile.TotalTime;
 
@@ -104,7 +105,7 @@ public class MusicPlayer
     {
         if (audioFile == null) return;
 
-        var newTime = audioFile.CurrentTime - TimeSpan.FromSeconds(15);
+        TimeSpan newTime = audioFile.CurrentTime - TimeSpan.FromSeconds(15);
         if (newTime < TimeSpan.Zero)
             newTime = TimeSpan.Zero;
 
